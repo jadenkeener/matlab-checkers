@@ -1,0 +1,3 @@
+This is a Matlab project I wrote for a modeling and simulation class during undergrad. The game is somewhat playable by a human, but was more intended to have two AI players compete. The PDF lab report for this assignment is inluded in this repo and provides more inisght into the purpose and functionality of this project.
+
+The project folder is a complete mess with many different experiments contained in the same folder and no clear file structure to be found (I certainly was not using git when I wrote this). This is uploaded only as an archive for one of my first larger projects!
